@@ -1,8 +1,8 @@
-# 📚 Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]
+# Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]
 
 This repository contains Jupyter notebooks implementing various machine learning algorithms covered in the Udemy course **Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]**. Each notebook provides hands-on implementation of key machine learning techniques using **Python**.
 
-## 🧠 Course Sections & Algorithms
+## Course Sections & Algorithms
 
 The course is divided into several sections, and the corresponding Jupyter notebooks for each algorithm are listed below.
 
